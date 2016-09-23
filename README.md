@@ -1,8 +1,14 @@
-Name:
+Name: Steve Tan
 
-Compilation and Run Successful:
+Compilation and Run Successful: Successful!
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Successful
+Output:
+Running MainActivity unit tests
+Running example unit test...
+Process finished with exit code 0
+
+
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
